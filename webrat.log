@@ -27,3 +27,20 @@ D, [2015-11-12T08:05:33.217861 #9142] DEBUG -- : REQUESTING PAGE: GET / with {} 
 D, [2015-11-12T08:05:33.259865 #9142] DEBUG -- : REQUESTING PAGE: POST / with {"ingresar"=>"", "calcular"=>"calcular"} and HTTP headers {"HTTP_REFERER"=>"/"}
 D, [2015-11-12T08:06:11.113899 #9213] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
 D, [2015-11-12T08:06:11.159704 #9213] DEBUG -- : REQUESTING PAGE: POST / with {"ingresar"=>"", "calcular"=>"calcular"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2015-11-12T08:08:15.896905 #9307] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2015-11-12T08:08:15.945338 #9307] DEBUG -- : REQUESTING PAGE: POST / with {"ingresar"=>"", "calcular"=>"calcular"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2015-11-12T08:12:44.415239 #9405] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2015-11-12T08:12:44.467194 #9405] DEBUG -- : REQUESTING PAGE: POST / with {"ingresar"=>"", "calcular"=>"calcular"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2015-11-12T08:12:44.473501 #9405] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2015-11-12T08:18:17.271102 #9506] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2015-11-12T08:18:17.319403 #9506] DEBUG -- : REQUESTING PAGE: POST / with {"ingresar"=>"", "calcular"=>"calcular"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2015-11-12T08:18:17.325416 #9506] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2015-11-12T08:18:17.328432 #9506] DEBUG -- : REQUESTING PAGE: POST / with {"ingresar"=>"1", "calcular"=>"calcular"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2015-11-12T08:45:45.127433 #11012] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2015-11-12T08:45:45.182794 #11012] DEBUG -- : REQUESTING PAGE: POST / with {"ingresar"=>"", "calcular"=>"calcular"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2015-11-12T08:45:45.188302 #11012] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2015-11-12T08:45:45.192607 #11012] DEBUG -- : REQUESTING PAGE: POST / with {"ingresar"=>"1", "calcular"=>"calcular"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2015-11-12T08:49:35.332466 #11103] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2015-11-12T08:49:35.384141 #11103] DEBUG -- : REQUESTING PAGE: POST / with {"ingresar"=>"", "calcular"=>"calcular"} and HTTP headers {"HTTP_REFERER"=>"/"}
+D, [2015-11-12T08:49:35.390505 #11103] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2015-11-12T08:49:35.409528 #11103] DEBUG -- : REQUESTING PAGE: POST / with {"ingresar"=>"1", "calcular"=>"calcular"} and HTTP headers {"HTTP_REFERER"=>"/"}

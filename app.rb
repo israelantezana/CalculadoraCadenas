@@ -1,9 +1,13 @@
 require 'sinatra'
+require 'calculadora'
+
 get '/' do
   erb :calculadora
 end
 
 post '/' do
-  @resp=0
+  @calculadora = Calculadora.new
+  @parametros = params[:ingresar]
+  @resp = @calculadora.sumar(@parametros)
   erb :calculadora
 end
